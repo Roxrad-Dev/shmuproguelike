@@ -1,13 +1,13 @@
 name: Deploy Quartz site to GitHub Pages
- 
+
 on:
   push:
     branches:
       - v4
- 
- env:
+
+env:
   THEME_NAME: nier
- 
+
 permissions:
   contents: read
   pages: write
