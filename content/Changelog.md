@@ -5,6 +5,11 @@ tags:
   - 
 aliases:
 ---
+# 20/03/2026
+
+| Changements                                                                             | Page           |
+| --------------------------------------------------------------------------------------- | -------------- |
+| Ajouté des précisions sur les tirs:<br>Tower<br>Blind-Tower<br>Castle<br>Howling Castle | [[1a.Ennemis]] |
 # 21/02/2026
 Depuis la V1:
 
