@@ -8,7 +8,7 @@ tags:
 
 # Présentation
 
-[[1a.Project Diamond|Project diamond]] est un shoot'em up roguelike dans lequel le joueur incarne un membre des forces d'assaut pilotant un vaisseau modulaire. À l'aide de ses compagnons d'armes et de divers modules d'amélioration il traversera divers [[2.Niveaux|niveaux]] avant d'atteindre le dernier [[2.Boucle de gameplay détaillée|boss]].
+[[1a.Project Diamond|Project diamond]] est un shoot'em up roguelike dans lequel le joueur incarne un membre des forces d'assaut pilotant un vaisseau modulaire. À l'aide de ses compagnons d'armes et de divers modules d'amélioration il traversera divers [[2a.Niveaux|niveaux]] avant d'atteindre le dernier [[2.Boucle de gameplay détaillée|boss]].
 
 ## Détails
 ### 1-Presentation
@@ -33,7 +33,7 @@ tags:
 [[1a.Systèmes de jeu]]
 	Détail des différentes mécaniques de jeu et I/O du joueur
 [[2.Système de progression]]
-	Obtention d'[[5.Objets|objets]], de compagnons et changement de [[2.Niveaux|niveaux]]
+	Obtention d'[[5.Objets|objets]], de compagnons et changement de [[2a.Niveaux|niveaux]]
 [[3.Système de récompense]]
 	Boucle économique et obtention de récompense au niveau micro et macro
 
@@ -42,5 +42,5 @@ tags:
 	Ambience, monde et contexte
 [[3.Partenaires]]
 	Personnage joueur, NPC, [[1a.Ennemis|ennemis]]
-[[2.Niveaux]]
+[[2a.Niveaux]]
 	[[1b.Environnement|Environnement]] de jeu
