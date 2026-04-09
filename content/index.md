@@ -33,8 +33,8 @@ tags:
 [[1a.Systèmes de jeu]]
 	Détail des différentes mécaniques de jeu et I/O du joueur
 [[2.Système de progression]]
-	Obtention d'[[5.Objets|objets]], de compagnons et changement de [[2a.Niveaux|niveaux]]
-[[3.Système de récompense]]
+	Obtention d'[[5.Améliorations|objets]], de compagnons et changement de [[2a.Niveaux|niveaux]]
+[[3b.Interface de récompense]]
 	Boucle économique et obtention de récompense au niveau micro et macro
 
 ### 4-Contenu
